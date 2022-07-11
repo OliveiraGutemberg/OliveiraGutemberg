@@ -4,7 +4,7 @@ Hi, I’m Gutemberg 👋
 - 🌱   I’m currently learning HTML, CSS, JAVASCRIPT.
 - 📫   How to reach me: @gutembergtraba1
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/OliveiraGutemberg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OliveiraGutemberg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
