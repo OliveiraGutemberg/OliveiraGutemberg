@@ -1,7 +1,8 @@
 Hi, I’m Gutemberg 👋
 
-- 👀   I’m interested in HTML, CSS, JAVASCRIPT, SQL, NODE, REACT, PYTHON
-- 🌱   I’m currently learning NODE.JS
+- 💻   Languages: HTLM | CSS | JavaScript | SQL
+- 💻   Other tools: NodeJS | MySql | MongoDB | GIT
+- 🌱   I’m currently learning NodeJS | MySql | MongoDB
 - 📫   How to reach me: @gutembergtraba1
 
 <div align="left">
@@ -13,6 +14,7 @@ Hi, I’m Gutemberg 👋
   <img align="center" alt="Gugu-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gugu-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gugu-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Gugu-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
   
   ##
