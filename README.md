@@ -1,6 +1,6 @@
 Hi, I’m Gutemberg 👋
 
-- 💻   Languages: HTLM | CSS | JavaScript | SQL
+- 💻   Languages: HTLM | CSS | ReactJS | JavaScript | TypeScript | SQL
 - 💻   Other tools: NodeJS | MySql | MongoDB | GIT
 - 🌱   I’m currently learning NodeJS | MySql | MongoDB
 - 📫   How to reach me: @gutembergtraba1
@@ -15,6 +15,8 @@ Hi, I’m Gutemberg 👋
   <img align="center" alt="Gugu-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gugu-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gugu-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gugu-REACTJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Gugu-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
   
   ##
